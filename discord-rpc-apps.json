@@ -1,0 +1,33 @@
+{
+	"app-list": [
+    {
+		"app_name": "ガルパ",
+		"process_id": "jp.co.craftegg.band",
+		"discord_application_id": "",
+		"large_image_key": "",
+		"large_image_text": "Girls Band Party [JP]",
+		"small_image_key": "",
+		"small_image_text": ""
+    },
+    {
+        "app_name": "Girls Band Party",
+		"process_id": "com.bushiroad.en.bangdreamgbp",
+		"discord_application_id": "",
+		"large_image_key": "",
+		"large_image_text": "Girls Band Party [Global]",
+		"small_image_key": "",
+		"small_image_text": ""
+    },
+    {
+        "app_name": "Love Live! School Idol Festival",
+		"process_id": "klb.android.lovelive_en",
+		"discord_application_id": "",
+		"large_image_key": "",
+		"large_image_text": "Love Live! School Idol Festival (Global)",
+		"small_image_key": "",
+		"small_image_text": ""
+    }
+
+]
+
+}
